@@ -1,0 +1,13 @@
+optimum
+transformers 
+accelerate
+librosa
+torch
+soundfile
+jiwer
+tensorboardX
+scikit-learn
+evaluate
+gradio
+deepspeed
+bitsandbytes
